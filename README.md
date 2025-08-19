@@ -1,2 +1,1 @@
-# Pandas_intro
-Solve short hands-on challenges to perfect your data manipulation skills.
+Colección de ejercicios prácticos en Python para aprender y aplicar técnicas de análisis de datos: manipulación de datos, limpieza, agrupamiento, indexación, funciones de resumen y combinación de datasets.
